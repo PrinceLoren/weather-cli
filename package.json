@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "files": ["./src/*/*.js"],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "author": "Daniil Kashcheev",
+  "license": "ISC",
+  "homepage": "https://github.com/PrinceLoren",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrinceLoren"
+  },
+  "bugs": {
+    "url": "https://github.com/PrinceLoren",
+    "email": "cvb.amaho@gmail.com"
+  }}
